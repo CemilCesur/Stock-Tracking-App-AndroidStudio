@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">McStock</string>
+
+    <string name="tel_string">tel:0224 441 7878</string>
+    <string name="fragment_mesaji">Dialog Fragment Gösteriliyor</string>
+    <string name="baslangic_qty">0</string>
+    <string name="dosya_adi">list.txt</string>
+
+
+</resources>
